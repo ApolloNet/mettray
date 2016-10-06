@@ -1,11 +1,14 @@
 ---
 title: Nouvelle Série
 description: "La revue METTRAY, nouvelle série : 2009-..."
+class: revue
 ---
+
+[Consulter la première série](/serie-1)
 
 ## METTRAY n°1. Hiver 2009.
 
-![METTRAY n°1. Hiver 2009.](/files/mettray11.png)
+![METTRAY n°1. Hiver 2009.](/files/mettray11.png){: .right}
 
 Ce numéro est dédié à la mémoire de Thierry Kuntzel.
 
@@ -23,7 +26,7 @@ Vient de publier aux éditions Verticales, *Roman*, le troisième volume de sa *
 
 ## METTRAY n°2. Décembre 2009.
 
-![METTRAY n°2. Décembre 2009.](/files/mettray12.png)
+![METTRAY n°2. Décembre 2009.](/files/mettray12.png){: .right}
 
 Je viens de terminer *Un autre voyage mexicain*, film de 112 minutes, qui documente le voyage au Mexique qu’effectua Bernard Plossu en 1965-1966, et qui donna lieu à une publication aux éditions Contrejour en 1979, *Le voyage mexicain*.
 
@@ -51,7 +54,7 @@ Didier Morin
 
 ## METTRAY n°3. Septembre 2010.
 
-![METTRAY n°3. Septembre 2010.](/files/mettray13.png)
+![METTRAY n°3. Septembre 2010.](/files/mettray13.png){: .right}
 
 **Kostas Axelos.** Philosophe. 1924-2010. Son dernier livre paru en France est *Ce qui advient*, aux éditions Les Belles Lettres, coll. « Encre marine », et en Grèce en juin 2010, chez Nefeli, *Le destin de la Grèce moderne* paru en 1954 dans la revue *Esprit*, traduit par Katherina Daskalaki.  
 
@@ -81,7 +84,7 @@ Il vit à Marseille. Il vient de réaliser *Dans l’atelier de Jean-Pierre Bert
 
 ## METTRAY n°4. Octobre 2011.
 
-![METTRAY n°4. Octobre 2011.](/files/mettray-s2-04.png)
+![METTRAY n°4. Octobre 2011.](/files/mettray-s2-04.png){: .right}
 
 **Kostas Axelos.** Philosophe. 1924-2010. Son dernier livre paru en France est *Ce qui advient*, aux éditions Les Belles Lettres, coll. « Encre marine », et en Grèce en juin 2010 chez Nefeli, *Le destin de la Grèce moderne* paru en 1954 dans la revue *Esprit*, traduit par Katherina Daskalaki.
 
@@ -107,7 +110,7 @@ Les deux nouvelles, *Aux Malheurs éternels*, et *L’Arche* sont à paraître.
 
 ## METTRAY n°5. Octobre 2012.
 
-![METTRAY n°5. Octobre 2012.](/files/mettray-s2-05.png)
+![METTRAY n°5. Octobre 2012.](/files/mettray-s2-05.png){: .right}
 
 **René de Ceccatty.** Écrivain et traducteur. Il vit à Paris.  
 Dernier livre paru : *Raphaël et Raphaël*, éd. Flammarion, 2012.
@@ -141,7 +144,7 @@ En couverture, de gauche à droite : Patrick Eudeline, Brion Gysin et Alain Paca
 
 ## METTRAY n°6. Septembre 2013.
 
-![METTRAY n°6. Septembre 2013.](/files/mettray-s2-06.png)
+![METTRAY n°6. Septembre 2013.](/files/mettray-s2-06.png){: .right}
 
 **Luc Béraud.** Cinéaste, réalisateur, scénariste. Il vit à Paris.
 
@@ -176,7 +179,7 @@ En cours : un essai et une importante exposition sur Tristan Tzara.
 
 ## METTRAY n°7. Septembre 2014.
 
-![METTRAY n°7. Septembre 2014.](/files/mettray-s2-07.png)
+![METTRAY n°7. Septembre 2014.](/files/mettray-s2-07.png){: .right}
 
 **Gérard Arseguel.** Écrivain. Dernières parutions : *Âme de quel divin !*, Fissile éditions, 2008 ; *Le petit bois qu’aimait Gérard : proses ariégeoises*, Éditions Larifla !, 2014.
 
@@ -213,7 +216,7 @@ Depuis quelques années, elle travaille sur l’oeuvre de son père, le poète e
 
 ## METTRAY n°8. Septembre 2015.
 
-![METTRAY n°8. Septembre 2015.](/files/mettray-s2-08.png)
+![METTRAY n°8. Septembre 2015.](/files/mettray-s2-08.png){: .right}
 
 Dire une photographie. Dire avec des mots ce qu’elle évoque, l’émotion, le temps perdu qu'elle ressuscite, dire avec des mots ce qu’une photographie ne dit pas.  
 J’ai choisi 34 auteurs, écrivains, cinéastes, poètes, artistes, historiens, critiques. Je leur ai demandé de choisir une photographie et de la « dire ».
@@ -259,7 +262,7 @@ Didier Morin.
 
 ## METTRAY n°9. Septembre 2016.
 
-![METTRAY n°9. Septembre 2016.](/files/mettray-s2-09.png)
+![METTRAY n°9. Septembre 2016.](/files/mettray-s2-09.png){: .right}
 
 **William S. Burroughs.** 1914-1997. Écrivain, artiste.  
 Il a notamment publié *Naked lunch* (*Le Festin nu*) chez Olympia Press en 1959. Pendant plusieurs années le livre est interdit aux États-Unis. Il met au point avec Brion Gysin la technique du cut-up.

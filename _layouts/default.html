@@ -14,23 +14,36 @@
   <link type="text/css" rel="stylesheet" media="all" href="/css/main.css">
   <link rel="shortcut icon" href="/favicon.ico" type="image/ico">
 </head>
-<body>
+<body class="{{ page.class }}">
   <header>
     <div class="sitename"><a href="/">METTRAY</a></div>
-    <nav>
+    <nav class="main-nav">
       <ul>
-        <li><a href="/pages/serie-1">Première série</a></li>
-        <li><a href="/pages/serie-2">Nouvelle série</a></li>
-        <li><a href="/pages/objets">Objets</a></li>
-        <li><a href="/pages/liens">Liens</a></li>
-        <li><a href="/pages/contact">Contact</a></li>
+        <li><a href="/">Accueil</a></li>
+        <li><a href="/serie-2">Revue</a></li>
+        <li><a href="/livres">Livres</a></li>
+        <li><a href="/objets">Objets</a></li>
+        <li><a href="/liens">Liens</a></li>
+        <li><a href="/contact">Contact</a></li>
       </ul>
     </nav>
   </header>
-  <section>
+  <main>
     {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
     {{ content }}
-  </section>
-<script src="/js/google-analytics.js" defer></script>
+  </main>
+  <footer>
+    <nav class="footer-nav">
+      <ul>
+        <li><a href="/">Accueil</a></li>
+        <li><a href="/serie-2">Revue</a></li>
+        <li><a href="/livres">Livres</a></li>
+        <li><a href="/objets">Objets</a></li>
+        <li><a href="/liens">Liens</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </footer>
+  <script src="/js/google-analytics.js" defer></script>
 </body>
 </html>

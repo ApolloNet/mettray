@@ -1,12 +1,15 @@
 ---
 title: Première série
 description: "La revue METTRAY, première série : 2001 - 2006."
+class: revue
 ---
+
+[Consulter la nouvelle série](/serie-2)
 
 METTRAY N°1. Automne 2001.
 --------------------------
 
-![METTRAY N°1. Automne 2001.](/files/gd_mettray1.gif)
+![METTRAY N°1. Automne 2001.](/files/gd_mettray1.gif){: .right}
 
 **Jean-Pierre Bertrand.** Artiste. Il vit à Paris. Il met en oeuvre dans ses derniers travaux un nouveau médium : le médium flamand, dont les quatre phrases présentées ici en exorcisent en quelque sorte la pratique.
 
@@ -20,7 +23,7 @@ METTRAY N°1. Automne 2001.
 METTRAY N°2. Printemps 2002.
 ----------------------------
 
-![METTRAY N°2. Printemps 2002.](/files/gd_mettray2.gif)
+![METTRAY N°2. Printemps 2002.](/files/gd_mettray2.gif){: .right}
 
 **Anis Balafrèj.** Entrepreneur. Il vit à Rabat.
 
@@ -41,7 +44,7 @@ METTRAY N°2. Printemps 2002.
 METTRAY N°3. Automne 2002.
 --------------------------
 
-![METTRAY N°3. Automne 2002.](/files/gd_mettray3.gif)
+![METTRAY N°3. Automne 2002.](/files/gd_mettray3.gif){: .right}
 
 **E. M. Cioran.** Penseur. 1911-1995.
 
@@ -58,7 +61,7 @@ Pense un peu qu'elle habite dans la plus belle du monde (qui ne peut donner que 
 METTRAY N°4. Printemps 2003.
 ----------------------------
 
-![METTRAY N°4. Printemps 2003.](/files/gd_mettray4.gif)
+![METTRAY N°4. Printemps 2003.](/files/gd_mettray4.gif){: .right}
 
 **Kostas Axelos.** Né en 1924 à Athènes. Participe activement à la Résistance et à la guerre civile. S'installe à Paris en 1945. Études de philosophie à la Sorbonne où il enseigne (1962-1973).  Rédacteur en chef de la revue *Arguments* (1956-1962), fonde et dirige, depuis 1960, la collection *Arguments* aux Éditions de Minuit où paraissent ses livres : *Héraclite et la philosophie* (1962), *Le Jeu du monde* (1965), *Lettres à un jeune penseur* (1996), *Notices autobiographiques* (1997), *Le Questionnement* (2001).
 Prépare un livre : *Réponses énigmatiques*.
@@ -79,7 +82,7 @@ D.M.
 METTRAY N°5. Automne 2003.
 --------------------------
 
-![METTRAY N°5. Automne 2003.](/files/gd_mettray5.gif)
+![METTRAY N°5. Automne 2003.](/files/gd_mettray5.gif){: .right}
 
 **Laurence Bungelmi.** Née en 1976.
 
@@ -92,7 +95,7 @@ METTRAY N°5. Automne 2003.
 METTRAY N°6. Printemps 2004.
 ----------------------------
 
-![METTRAY N°6. Printemps 2004.](/files/gd_mettray6.gif)
+![METTRAY N°6. Printemps 2004.](/files/gd_mettray6.gif){: .right}
 
 **Maurice Blaussyld.** Né en 1960 à Calais. Il vit et travaille à Lille.
 
@@ -108,7 +111,7 @@ METTRAY N°6. Printemps 2004.
 METTRAY N°7. Automne 2004.
 --------------------------
 
-![METTRAY N°7. Automne 2004.](/files/gd_mettray7.gif)
+![METTRAY N°7. Automne 2004.](/files/gd_mettray7.gif){: .right}
 
 **Jean Genet.** Écrivain. 1910-1986.
 
@@ -122,7 +125,7 @@ METTRAY N°7. Automne 2004.
 METTRAY N°8. Printemps 2005.
 ----------------------------
 
-![METTRAY N°8. Printemps 2005.](/files/gd_mettray8.gif)
+![METTRAY N°8. Printemps 2005.](/files/gd_mettray8.gif){: .right}
 
 **Kostas Axelos.** Il vit à Paris. Il publie ici la traduction inédite en français d'un fragment de *Ein Führung in ein Künftiges Denken. Uber Marx und Heidegger.*Tubingen, Niemeyer. 1966. Traduction de Claude Roëls.
 
@@ -137,7 +140,7 @@ METTRAY N°8. Printemps 2005.
 METTRAY N°9. Automne 2005.
 --------------------------
 
-![METTRAY N°9. Automne 2005.](/files/gd_mettray9.gif)
+![METTRAY N°9. Automne 2005.](/files/gd_mettray9.gif){: .right}
 
 **Diego Castro.** Artiste Plasticien. Il vit à Francfort et Genève.
 
@@ -156,7 +159,7 @@ Il travaille à la biographie d'Eliane Radigue.
 METTRAY N°10. Printemps 2006.
 -----------------------------
 
-![METTRAY N°10. Printemps 2006.](/files/gd_mettray10.gif)
+![METTRAY N°10. Printemps 2006.](/files/gd_mettray10.gif){: .right}
 
 **Kostas Axelos.** Philosophe. Il vit à Paris. Ce qu'il publie ici fait partie d'un livre à venir. Dernier livre publié *Réponses énigmatiques*, aux Éditions de Minuit dans la collection *Arguments* en février 2005.
 
