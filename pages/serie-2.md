@@ -1,6 +1,6 @@
 ---
 title: Nouvelle Série
-description: La revue METTRAY, nouvelle série : 2009-...
+description: "La revue METTRAY, nouvelle série : 2009-..."
 ---
 
 ## METTRAY n°1. Hiver 2009.

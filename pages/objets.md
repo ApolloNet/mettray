@@ -1,6 +1,6 @@
 ---
 title: Objets
-description: Les objets de la revue METTRAY.
+description: "Les objets de la revue METTRAY."
 ---
 
 ## Isla de Os
