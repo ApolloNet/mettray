@@ -1,0 +1,98 @@
+/* Here we go */
+
+body {
+  background:#fff;
+  font:1.2em/1.5 'EB Garamond', serif;
+  color:#000;
+}
+header,
+section{
+  max-width:600px;
+  margin:0 auto;
+  padding:1em;
+}
+section{
+  padding-top:0;
+}
+nav ul{
+  border-bottom:1px solid #eee;
+  padding-bottom:.5em;
+  text-align:center;
+}
+nav ul li{
+  display:inline;
+  padding:0 .8em 0 0;
+  background:none;
+}
+nav ul li:after{
+  content:'. ';
+}
+nav ul li a{
+  color:#000;
+}
+nav ul li a:hover{
+  color:#007faa;
+  text-decoration:none;
+}
+.sitename, h1, h2, h3{
+  font-family:Arial, sans-serif;
+}
+.sitename a, h1 a, h2 a, h3 a{
+  color:#000;
+}
+.sitename {
+  margin:0 0 .2em 0;
+  font-size:3em;
+  text-align:center;
+}
+h1 {
+  margin:0 0 .5em 0;
+  font-size:1.5em;
+}
+h2 {
+  font-size:1.1em;
+  margin:2em 0 1em 0;
+}
+h3{
+  font-size:1em;
+}
+ul, ol {
+  margin:.2em;
+}
+li{
+  padding:0 0 .2em .5em;
+  list-style:disc inside;
+}
+p {
+  margin:.6em 0 1.2em;
+  padding:0;
+}
+a{
+  color:#007faa;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+}
+a.pdf{
+  padding:5px 0 0 20px;
+  background:transparent url(images/pdf.gif) no-repeat;
+  font-weight:bold;
+  color:#000;
+}
+strong{
+  font-weight:bold;
+}
+em{
+  font-style:italic;
+}
+img{
+  float:right;
+  border:1px solid #eee;
+  margin-left:1.5em;
+  padding:.2em;
+}
+.mettray{
+  font-family: arial;
+  text-transform: uppercase;
+}

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}La revue Mettray</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  <meta name="author" content="Didier Morin">
+  <meta name="robots" content="index, follow">
+  <meta name="verify-v1" content="3xQ1oLDoT6ISF9unFMjV8y9tTJvjRo5seuUOY6hhm0M=">
+  <meta name="viewport" content="initial-scale=1.0, width=device-width">
+  <link href="http://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
+  <link type="text/css" rel="stylesheet" media="all" href="/css/main.css">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/ico">
+</head>
+<body>
+  <header>
+    <div class="sitename"><a href="/">METTRAY</a></div>
+    <nav>
+      <ul>
+        <li><a href="/pages/serie-1">Première série</a></li>
+        <li><a href="/pages/serie-2">Nouvelle série</a></li>
+        <li><a href="/pages/objets">Objets</a></li>
+        <li><a href="/pages/liens">Liens</a></li>
+        <li><a href="/pages/contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    {% if page.title %}<h1>{{ page.title }}</h1>{% endif %}
+    {{ content }}
+  </section>
+<script src="/js/google-analytics.js" defer></script>
+</body>
+</html>
