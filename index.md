@@ -13,7 +13,7 @@ William S. Burroughs, Allen Ginsberg, Brion Gysin, Jack Kerouac, Gérard Arsegue
 
 <p class="clear no-margin"><img class="right" width="141" height="188" src="/files/livre-on/couverture-on.jpg" alt="États du Monde, Onuma Nemon"></p>
 
-## [_États du Monde_, Onuma Nemon, <span class="date">Août 2016</span>](/etats-du-monde)
+## [_États du Monde_, Onuma Nemon<br><span class="date">Août 2016</span>](/etats-du-monde)
 
 Les _États du Monde_ sont un voyage au Pays des Morts sous forme d’une épopée carnavalesque démesurée. Ce premier volume concerne Les Grands Ancêtres et la Tribu des Gras Ici, le minimum de pacte est associé au maximum de folie.  
 [Présentation de l'ouvrage](/etats-du-monde)

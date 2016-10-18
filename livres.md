@@ -33,8 +33,8 @@ Textes de Catherine Millet, Hélène Meisel et Philippe-Alain Michaud.
 
 ### _Le Petit bois qu'aimait Gérard_
 
-De Gérard Arseguel.
+de Gérard Arseguel.
 
 ### _Le Cinéma des artistes d'avant-garde, 1920-1930_
 
-De Patrick de Haas.
+de Patrick de Haas.
