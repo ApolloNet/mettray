@@ -56,12 +56,8 @@ nav ul {
 
 nav li {
   display: inline;
-  padding: 0 0.8rem 0 0;
+  margin: 0 1rem;
   background: none;
-}
-
-nav li::after {
-  content: '. ';
 }
 
 nav a {
@@ -138,6 +134,7 @@ p  {
 // Sections.
 
 hr {
+  clear: both;
   height: 1px;
   margin-bottom: 1.5rem;
   background: #eee;
@@ -199,8 +196,8 @@ figure {
 // METTRAY special.
 
 .mettray {
-  font-family:  arial;
-  text-transform:  uppercase;
+  font-family: arial;
+  text-transform: uppercase;
 }
 
 // Footer.
