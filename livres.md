@@ -12,6 +12,13 @@ h1: false
 
 ## Catalogue
 
+<p class="clear no-margin"><img class="right" width="141" height="168" src="/files/livre-arseguel/couverture.jpg" alt="Le Petit bois qu'aimait Gérard, Gérard Arseguel"></p>
+
+### [_Le Petit bois qu'aimait Gérard_, Gérard Arseguel<br><span class="date">Août 2017</span>](le-petit-bois-qu-aimait-gerard)
+
+À quatre heures du matin, de la porte qui reliait la chambre des mères à l’antichambre aveugle où étaient disposés les lits de trois enfants – porte qui venait de s’ouvrir avec de telles précautions que j’avais fini par déchiffrer le message d’avoir à me lever – m’était parvenu, sorti d’une bouche invisible, l’ultrason de la formule rituelle « Gérard c’est l’heure ».  (Quatrième de couverture)
+
+
 <p class="clear no-margin"><img class="right" width="141" height="188" src="/files/livre-on/couverture-on.jpg" alt="États du Monde, Onuma Nemon"></p>
 
 ### [_États du Monde_, Onuma Nemon<br><span class="date">Août 2016</span>](/etats-du-monde)
@@ -31,9 +38,6 @@ Textes de Catherine Millet, Hélène Meisel et Philippe-Alain Michaud.
 
 ## À paraître
 
-### _Le Petit bois qu'aimait Gérard_
-
-de Gérard Arseguel.
 
 ### _Le Cinéma des artistes d'avant-garde, 1920-1930_
 
