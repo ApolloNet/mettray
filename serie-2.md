@@ -18,15 +18,19 @@ Didier Morin y publie également des entretiens avec des auteurs pour l’histoi
 
 ***
 
-## METTRAY n°10. Septembre 2017.
+## METTRAY n°10, _Lecture&nbsp;s_
+
+<span class="date">Septembre 2017</span>
 
 ![METTRAY n°10. Septembre 2017.](/files/mettray-s2-10.png){: .right}
 
 En offrant un livre, on offre un moment qui ne nous appartient pas mais que l’on désire à l’autre, une intimité, un espace de spiritualité. Nombreux sont les écrivains à avoir écrit sur la lecture, sur cette expérience hasardeuse qui offre au lecteur la possibilité de s’en trouver changé. Avant d’entreprendre la lecture d’un livre, et plus particulièrement lorsqu’il s’agit d’un roman ou d’un récit, je lis les premières et les dernières phrases. (Je ne pense pas que je procèderais de la même manière avec une liseuse). Je commence donc par lire le début et la fin avant d’aller plus loin. Je reste un moment avec ces phrases simplement pour ce qu’elles sont, sans suite pour celles du début et sans rien qui précède pour les phrases de la fin. Mon intention à ce moment là n’est pas de vouloir imaginer quoi que ce soit sur ce qui n’est encore qu’un désert, le texte dans sa totalité, mais seulement de me laisser imprégner par ces quelques lignes, de les laisser opérer en moi avec l’appréhension qu’il y a à découvrir un nouveau texte, surtout si on l’attend. Mon ami Jean-Pierre Bertrand me disait qu’il lui arrivait parfois de VOIR quelque chose qui selon lui n’appartenait pas au livre qu’il était en train de lire. La revue METTRAY tire son nom de la littérature de Jean Genet, du _Miracle de la rose_. Prenons son dernier livre _Un captif amoureux_, la première phrase : _La page qui fut d’abord blanche, est maintenant parcourue du haut en bas de minuscules signes noirs, les lettres, les mots, les virgules, les points d’exclamation, et c’est grâce à eux qu’on dit que cette page est lisible_. La dernière phrase : _Cette dernière page de mon livre est transparente_. Le livre venait de paraître et je venais de l’acheter. J’ai fait le voyage en train de Paris à Tours avec ces deux phrases. Il faudrait écrire une anthologie de la première et de la dernière phrase comme en son temps Georges Schéhadé écrivit une _Anthologie du vers unique_.
 
-Avec : Jean-Michel Albérola, Gérard Arséguel, Jean-Christophe Bailly, Max Blagg, Olivier Brossard, Denis Castellas, René de Ceccatty, Hubert Colas, Patrick Chamoiseau, Agnes Clerc, Edith Cotrell, Cédric Demangeot, Michel Enrici, Michaël Ferrier, Aurélie Gravas , Théo Grémillet , Yannick HaenelLecture, Patrick de Haas, Jacques Henric, Dominiq Jenvrey, Frédérique Loutz, Laurent Mauvignier, Didier Morin, Onuma Nemon, Gaëlle Obiégly, Ron Padgett, Marcelin Pleynet, Bernard Plossu, Joël Roussiez, Jean-Jacques Schuhl, Philippe Sollers, Christian Thorel, Marguerite Vappereau.
+**Jean-Michel Albérola, Gérard Arséguel, Jean-Christophe Bailly, Max Blagg, Olivier Brossard, Denis Castellas, René de Ceccatty, Hubert Colas, Patrick Chamoiseau, Agnes Clerc, Edith Cotrell, Cédric Demangeot, Michel Enrici, Michaël Ferrier, Aurélie Gravas , Théo Grémillet , Yannick HaenelLecture, Patrick de Haas, Jacques Henric, Dominiq Jenvrey, Frédérique Loutz, Laurent Mauvignier, Didier Morin, Onuma Nemon, Gaëlle Obiégly, Ron Padgett, Marcelin Pleynet, Bernard Plossu, Joël Roussiez, Jean-Jacques Schuhl, Philippe Sollers, Christian Thorel, Marguerite Vappereau.**
 
-## METTRAY n°9. Septembre 2016.
+## METTRAY n°9
+
+<span class="date">Septembre 2016</span>
 
 ![METTRAY n°9. Septembre 2016.](/files/mettray-s2-09.png){: .right}
 
@@ -86,7 +90,9 @@ Les entretiens entre Didier Morin et Gérard Arséguel, Ingrid Caven, Onuma Nemo
 
 ***
 
-## METTRAY n°8. Septembre 2015.
+## METTRAY n°8
+
+<span class="date">Septembre 2015</span>
 
 ![METTRAY n°8. Septembre 2015.](/files/mettray-s2-08.png){: .right}
 
@@ -134,7 +140,9 @@ Didier Morin.
 
 ***
 
-## METTRAY n°7. Septembre 2014.
+## METTRAY n°7
+
+<span class="date">Septembre 2014</span>
 
 ![METTRAY n°7. Septembre 2014.](/files/mettray-s2-07.png){: .right}
 
@@ -173,7 +181,9 @@ Depuis quelques années, elle travaille sur l’oeuvre de son père, le poète e
 
 ***
 
-## METTRAY n°6. Septembre 2013.
+## METTRAY n°6
+
+<span class="date">Septembre 2013</span>
 
 ![METTRAY n°6. Septembre 2013.](/files/mettray-s2-06.png){: .right}
 
@@ -210,7 +220,9 @@ En cours : un essai et une importante exposition sur Tristan Tzara.
 
 ***
 
-## METTRAY n°5. Octobre 2012.
+## METTRAY n°5
+
+<span class="date">Octobre 2012</span>
 
 ![METTRAY n°5. Octobre 2012.](/files/mettray-s2-05.png){: .right}
 
@@ -246,7 +258,9 @@ En couverture, de gauche à droite : Patrick Eudeline, Brion Gysin et Alain Paca
 
 ***
 
-## METTRAY n°4. Octobre 2011.
+## METTRAY n°4
+
+<span class="date">Octobre 2011</span>
 
 ![METTRAY n°4. Octobre 2011.](/files/mettray-s2-04.png){: .right}
 
@@ -274,7 +288,9 @@ Les deux nouvelles, *Aux Malheurs éternels*, et *L’Arche* sont à paraître.
 
 ***
 
-## METTRAY n°3. Septembre 2010.
+## METTRAY n°3
+
+<span class="date">Septembre 2010</span>
 
 ![METTRAY n°3. Septembre 2010.](/files/mettray13.png){: .right}
 
@@ -306,7 +322,9 @@ Il vit à Marseille. Il vient de réaliser *Dans l’atelier de Jean-Pierre Bert
 
 ***
 
-## METTRAY n°2. Décembre 2009.
+## METTRAY n°2
+
+<span class="date">Décembre 2009</span>
 
 ![METTRAY n°2. Décembre 2009.](/files/mettray12.png){: .right}
 
@@ -336,7 +354,9 @@ Didier Morin
 
 ***
 
-## METTRAY n°1. Hiver 2009.
+## METTRAY n°1
+
+<span class="date">Hiver 2009</span>
 
 ![METTRAY n°1. Hiver 2009.](/files/mettray11.png){: .right}
 
