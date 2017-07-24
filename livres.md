@@ -15,7 +15,8 @@ h1: false
 ## [_Le petit bois qu'aimait Gérard_<br>Gérard Arseguel](le-petit-bois-qu-aimait-gerard)
 <span class="date">Août 2017</span>
 
-À quatre heures du matin, de la porte qui reliait la chambre des mères à l’antichambre aveugle où étaient disposés les lits de trois enfants – porte qui venait de s’ouvrir avec de telles précautions que j’avais fini par déchiffrer le message d’avoir à me lever – m’était parvenu, sorti d’une bouche invisible, l’ultrason de la formule rituelle « Gérard c’est l’heure ».  (Quatrième de couverture)  
+Ces «&nbsp;échardes du Paradis&nbsp;» portent le tragique d’une lueur d’incendie, l’irradiation d’un instantané.  
+Vacance de l’identité, plénitude du monde grâce à une écriture à la fois tranchante et nouée comme le thyrse de Dionysos.  
 [Présentation de l'ouvrage](/le-petit-bois-qu-aimait-gerard)
 
 
