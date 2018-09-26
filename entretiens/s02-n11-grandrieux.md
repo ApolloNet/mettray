@@ -1,6 +1,6 @@
 ---
-title: Philippe Grandrieux, _Unrest_, un entretien avec Didier Morin
-description: "Philippe Grandrieux, _Unrest_, un entretien avec Didier Morin"
+title: "Philippe Grandrieux, Unrest, un entretien avec Didier Morin"
+description: "Entretien réalisé par Didier Morin avec Philippe Grandrieux autour de son film Unrest"
 h1: false
 class: revue
 ---
