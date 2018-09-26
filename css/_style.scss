@@ -180,7 +180,8 @@ img {
   height: auto;
 }
 
-figure {
+figure,
+.figure {
   margin-bottom: 1.5rem;
   font-size: 1.2rem;
 
@@ -189,7 +190,20 @@ figure {
   }
 }
 
-@media screen and (min-width:480px) {
+figcaption,
+.figcaption {
+  display: block;
+  text-align: right;
+}
+
+@media screen and (min-width: 960px) {
+  .hors-cadre {
+    margin-right: -9rem;
+    margin-left: -9rem;
+  }
+}
+
+@media screen and (min-width: 480px) {
   .galerie img {
     max-width: 480px;
   }
