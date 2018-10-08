@@ -11,12 +11,11 @@ description: La revue METTRAY, Didier Morin.
 Alain Bergala, Christine Baudillon, René de Ceccatty, Thomas Clerc, Amélie Derlon Cordina, Philippe Grandrieux, Patrick de Haas, Christian Lebrat, Jean-François Magre, Didier Morin, Onuma Nemon, Pier Paolo Pasolini, Marcelin Pleynet, Bernard Plossu, Ernest Pignon Ernest, Daniel Pommereulle, Dork Zabunyan.  
 [Sommaire complet du numéro](/serie-2#mettray-n10-septembre-2017)
 
+<p class="clear no-margin"><img class="right" width="141" height="188" src="/files/livre-de-haas/patrick-de-haas-cinema-absolu.jpg" alt="Cinéma absolu, Avant-garde 1920-1930, Patrick de Haas : Couverture"></p>
 
-<p class="clear no-margin"><img class="right" width="141" height="168" src="/files/livre-arseguel/couverture.jpg" alt="Le petit bois qu'aimait Gérard, Gérard Arseguel"></p>
+## [_Le Cinéma des artistes d'avant-garde, 1920-1930_<br>Patrick de Haas](/livres/patrick-de-haas-cinema-absolu-avant-garde-1920-1930)
+<span class="date">Octobre 2018</span>
 
-## [_Le petit bois qu'aimait Gérard_<br>Gérard Arseguel](/le-petit-bois-qu-aimait-gerard)
-<span class="date">Août 2017</span>
+Il s'agit de l'étude la plus complète à ce jour des relations entre peinture et cinéma dans les années 1920. Des artistes et poètes (Duchamp, Man Ray, Picabia, Malévitch, Léger, Artaud, Moholy-Nagy, Ruttmann, Desnos...) font du cinéma un chantier d'expériences.  Le cinéma se fait ainsi cubiste, dadaïste, abstrait, constructiviste, surréaliste... Les notions d'avant-garde, d'expérience et d'expérimentation se trouvent donc revisitées.
 
-Ces «&nbsp;échardes du Paradis&nbsp;» portent le tragique d’une lueur d’incendie, l’irradiation d’un instantané.  
-Vacance de l’identité, plénitude du monde grâce à une écriture à la fois tranchante et nouée comme le thyrse de Dionysos.  
-[Présentation de l'ouvrage](/le-petit-bois-qu-aimait-gerard)
+[Présentation de l'ouvrage](/livres/patrick-de-haas-cinema-absolu-avant-garde-1920-1930)
