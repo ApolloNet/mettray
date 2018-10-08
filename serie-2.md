@@ -10,52 +10,39 @@ class: revue
 La revue <span class="mettray">METTRAY</span>, du nom de la colonie pénitentiaire où séjourna Jean Genet, créée en 2001 par Didier Morin, regroupe des inédits, des archives, des travaux en cours d’artistes, de poètes, de photographes, d’écrivains, de cinéastes.  
 Didier Morin y publie également des entretiens avec des auteurs pour l’histoire qu’ils portent. La revue <span class="mettray">METTRAY</span> est en noir et blanc et sans couverture rigide. Son format est 21&nbsp;x&nbsp;28 cm.
 
-***
+---
 
 # Nouvelle série
 
 [Consulter la première série](/serie-1)
 
-***
+---
 
 ## METTRAY n°11
 
 <span class="date">Septembre 2018</span>
 
-**Marcelin Pleynet**, 1933-2018 un parcours politique, entretien avec Didier Morin
+![METTRAY n°11. Septembre 2018](/files/mettray-s2-11.jpg){: .right}
 
-**Robert Motherwell**, Lettre à Marcelin Pleynet
-
-**René de Ceccatty**, Ordalie, quelques thèses et hypothèses sur la mort de Pasolini
-
-**Pier Paolo Pasolini**, Lettres à René de Ceccatty
-
-**Ernest Pignon Ernest**, Photos de ses dessins dans Rome
-
-**Alain Bergala**, Le Paradis selon Godard
-
-**Amélie Derlon Cordina**, Persuasion
-
-**Christine Baudillon**, _Le Rouge et le Gris_, le film d’une vie
-
-**Thomas Clerc**, Notes pour un film à faire bientôt dans des années
-
-**Daniel Pommereulle**, _La couronne de terre_
-
-**Philippe Grandrieux**, _Unrest_ entretien avec Didier Morin
-
-**Jean-François Magre**, L’ombre du photographe
-
-**Onuma Nemon**, Hommage à Gérard Arseguel
-
-**Bernard Plossu**, About Bill Coleman
-
-**Christian Lebrat**, _Holon_ ou l’infini-cinéma
-
-**Dork Zabunyan**, Le film à venir
-
+**Marcelin Pleynet**, 1933-2018 un parcours politique, entretien avec Didier Morin  
+**Robert Motherwell**, Lettre à Marcelin Pleynet  
+**René de Ceccatty**, Ordalie, quelques thèses et hypothèses sur la mort de Pasolini  
+**Pier Paolo Pasolini**, Lettres à René de Ceccatty  
+**Ernest Pignon Ernest**, Photos de ses dessins dans Rome  
+**Alain Bergala**, Le Paradis selon Godard  
+**Amélie Derlon Cordina**, Persuasion  
+**Christine Baudillon**, _Le Rouge et le Gris_, le film d’une vie  
+**Thomas Clerc**, Notes pour un film à faire bientôt dans des années  
+**Daniel Pommereulle**, _La couronne de terre_  
+[**Philippe Grandrieux**, _Unrest_ entretien avec Didier Morin](entretiens/s02-n11-didier-morin-philippe-grandrieux.html) <span class="button">Lire</span>  
+**Jean-François Magre**, L’ombre du photographe  
+**Onuma Nemon**, Hommage à Gérard Arseguel  
+**Bernard Plossu**, About Bill Coleman  
+**Christian Lebrat**, _Holon_ ou l’infini-cinéma  
+**Dork Zabunyan**, Le film à venir  
 **Patrick de Haas**, _Cinéma Absolu_ entretien avec Didier Morin
 
+---
 
 ## METTRAY n°10, _Lecture&nbsp;s_
 
@@ -127,7 +114,7 @@ Il vit en Provence.
 Photos 1re et 4e de couverture : prise probablement par William S. Burroughs dans la chambre qu'il partage avec Brion Gysin.  
 Les entretiens entre Didier Morin et Gérard Arséguel, Ingrid Caven, Onuma Nemon ont été retranscris par Donia Lakhdar.
 
-***
+---
 
 ## METTRAY n°8
 
@@ -177,7 +164,7 @@ Didier Morin.
 **Antoine Volodine**-Rita Retzmayer  
 **Wim Wenders**-Isabelle Weingarten
 
-***
+---
 
 ## METTRAY n°7
 
@@ -218,7 +205,7 @@ Son œuvre a été présentée dans différents musées et galeries : Musée d�
 Elle se consacre à la photographie comme photographe de plateau et portraitiste.
 Depuis quelques années, elle travaille sur l’oeuvre de son père, le poète et dramaturge Romain Weingarten.
 
-***
+---
 
 ## METTRAY n°6
 
@@ -257,7 +244,7 @@ En cours : un essai et une importante exposition sur Tristan Tzara.
 
 **Isabelle Weingarten.** Actrice, photographe. Elle vit à Paris. Actuellement elle travaille sur l’œuvre de son père Romain Weingarten.
 
-***
+---
 
 ## METTRAY n°5
 
@@ -295,7 +282,7 @@ Les entretiens entre Didier Morin et Danielle Noyon, François Lagarde, Patrick 
 
 En couverture, de gauche à droite : Patrick Eudeline, Brion Gysin et Alain Pacadis. Photo François Lagarde.
 
-***
+---
 
 ## METTRAY n°4
 
@@ -325,7 +312,7 @@ Il crée la revue <span class="mettray">METTRAY</span> en 2001. Il vit à Marsei
 *Le Voyage biographique*, en février 2010 également à la Rumeur libre, et *La Cinquième île* chez Le Tout sur le tout en 1987.  
 Les deux nouvelles, *Aux Malheurs éternels*, et *L’Arche* sont à paraître.
 
-***
+---
 
 ## METTRAY n°3
 
@@ -359,7 +346,7 @@ Il vit à Marseille. Il vient de réaliser *Dans l’atelier de Jean-Pierre Bert
 À paraître : *101 éloges du paysage français* par Gilles Mora au Musée des Beaux Arts de Carcassonne, 15 octobre au 15 janvier 2011.  
 *Valencia en color*, au MUVIM, Valencia, novembre 2010.
 
-***
+---
 
 ## METTRAY n°2
 
@@ -391,7 +378,7 @@ Je remercie tous les auteurs qui ont participé à ce numéro, ainsi que Guy Jun
 
 Didier Morin
 
-***
+---
 
 ## METTRAY n°1
 

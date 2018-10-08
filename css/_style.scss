@@ -5,6 +5,7 @@ body {
   font-size: 1.2rem;
   line-height: 1.5;
   font-family: 'EB Garamond', serif;
+  font-weight: 400;
   color: #000;
 }
 
@@ -89,17 +90,17 @@ h3 {
   }
 }
 
-.sitename  {
+.sitename {
   margin: 0 0 0.2rem 0;
   font-size: 3.5rem;
   text-align: center;
 }
 
-h1  {
+h1 {
   font-size: 2rem;
 }
 
-h2  {
+h2 {
   margin-bottom: 0.5rem;
   font-size: 1.5rem;
 }
@@ -138,7 +139,7 @@ p  {
 hr {
   clear: both;
   height: 1px;
-  margin-bottom: 1.5rem;
+  margin-bottom: 3rem;
   background: #eee;
   border: 0;
 }
@@ -147,25 +148,25 @@ hr {
 
 a {
   color: #007faa;
-  text-decoration: none;
+  text-decoration: underline;
 
   &:focus,
   &:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
 a.pdf {
   padding: 5px 0 0 20px;
   background: transparent url('images/pdf.gif') no-repeat;
-  font-weight: bold;
+  font-weight: 600;
   color: #000;
 }
 
 // Inlines.
 
 strong {
-  font-weight: bold;
+  font-weight: 600;
 }
 
 .date,
@@ -207,6 +208,20 @@ figcaption,
   .galerie img {
     max-width: 480px;
   }
+}
+
+// Button.
+
+.button {
+  display: inline-block;
+  padding: 0 0.5rem;
+  background: #ccc;
+  border-radius: 0.5rem;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-family: arial, sans-serif;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3)
 }
 
 // METTRAY special.
