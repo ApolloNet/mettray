@@ -23,22 +23,22 @@ Il s'agit de l'étude la plus complète à ce jour des relations entre peinture 
 
 <p class="clear no-margin"><img class="right" width="141" height="168" src="/files/livre-arseguel/couverture.jpg" alt="Le petit bois qu'aimait Gérard, Gérard Arseguel"></p>
 
-## [_Le petit bois qu'aimait Gérard_<br>Gérard Arseguel](/livres/le-petit-bois-qu-aimait-gerard)
+## [_Le petit bois qu'aimait Gérard_<br>Gérard Arseguel](/livres/gerard-arseguel-le-petit-bois-qu-aimait-gerard)
 <span class="date">Août 2017</span>
 
 Ces «&nbsp;échardes du Paradis&nbsp;» portent le tragique d’une lueur d’incendie, l’irradiation d’un instantané.  
 Vacance de l’identité, plénitude du monde grâce à une écriture à la fois tranchante et nouée comme le thyrse de Dionysos.  
-[Présentation de l'ouvrage](/livres/le-petit-bois-qu-aimait-gerard)
+[Présentation de l'ouvrage](/livres/gerard-arseguel-le-petit-bois-qu-aimait-gerard)
 
 ---
 
 <p class="clear no-margin"><img class="right" width="141" height="188" src="/files/livre-on/couverture-on.jpg" alt="États du Monde, Onuma Nemon"></p>
 
-## [_États du Monde_<br>Onuma Nemon](/livres/etats-du-monde)
+## [_États du Monde_<br>Onuma Nemon](/livres/onuma-nemon-etats-du-monde)
 <span class="date">Août 2016</span>
 
 Les _États du Monde_ sont un voyage au Pays des Morts sous forme d’une épopée carnavalesque démesurée. Ce premier volume concerne Les Grands Ancêtres et la Tribu des Gras Ici, le minimum de pacte est associé au maximum de folie.  
-[Présentation de l'ouvrage](/livres/etats-du-monde)
+[Présentation de l'ouvrage](/livres/onuma-nemon-etats-du-monde)
 
 ---
 
