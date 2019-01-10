@@ -1,6 +1,6 @@
 ---
 title: Livres
-description: Livres parus chez Mettray Éditions
+description: Livres parus chez Mettray Éditions, Didier Morin
 h1: false
 ---
 

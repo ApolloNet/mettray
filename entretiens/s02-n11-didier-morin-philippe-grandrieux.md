@@ -8,7 +8,7 @@ class: revue
 # Philippe Grandrieux, _Unrest_
 
 Un entretien avec Didier Morin.  
-Paru en setembre 2018 dans [la revue Mettray, nouvelle série, numéro 11](/serie-2#mettray-n11).
+Paru en setembre 2018 dans [la revue Mettray, nouvelle série, numéro 11](/revue#mettray-s02-n11).
 
 <p class="figure hors-cadre">
   <img src="/files/entretiens/s02-n11-grandrieux.jpg" alt="Lilas Nagoya dans Unrest" width="960" height="647">
