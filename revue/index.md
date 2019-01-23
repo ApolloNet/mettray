@@ -7,7 +7,7 @@ class: revue
 
 # La revue
 
-La revue <span class="mettray">METTRAY</span>, du nom de la colonie pénitentiaire où séjourna Jean Genet, créée en 2001 par Didier Morin, regroupe des inédits, des archives, des travaux en cours d’artistes, de poètes, de photographes, d’écrivains, de cinéastes.  
+La revue <span class="mettray">METTRAY</span>, créée en 2001 par Didier Morin, regroupe des inédits, des archives, des travaux en cours d’artistes, de poètes, de photographes, d’écrivains, de cinéastes.  
 Didier Morin y publie également des entretiens avec des auteurs pour l’histoire qu’ils portent. La revue <span class="mettray">METTRAY</span> est en noir et blanc et sans couverture rigide. Son format est 21&nbsp;x&nbsp;28 cm.
 
 ---
