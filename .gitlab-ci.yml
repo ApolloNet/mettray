@@ -1,0 +1,14 @@
+image: node:latest
+
+before_script:
+  - npm install tamago
+
+pages:
+  stage: deploy
+  script:
+  - ./node_modules/tamago/bin/tamago.js build
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
