@@ -3,6 +3,7 @@
   "baseurl": "http://mettray.com",
   "basepath": "/",
   "contentTypes": ["entretiens", "livres", "pages", "revue"],
+  "filesDirs": ["files", ".well-known"],
   "home": {
     "where": "pages",
     "slug": "home"
