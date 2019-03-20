@@ -3,7 +3,7 @@ title: METTRAY n°6. Printemps 2004
 class: revue
 ---
 
-![METTRAY n°6. Printemps 2004.](/files/gd_mettray6.gif){: .right}
+<img class="right" src="/files/gd_mettray6.gif" alt="METTRAY n°6. Printemps 2004.">
 
 **Maurice Blaussyld.** Né en 1960 à Calais. Il vit et travaille à Lille.
 

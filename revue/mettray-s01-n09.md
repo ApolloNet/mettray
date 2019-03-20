@@ -3,7 +3,7 @@ title: METTRAY n°9. Automne 2005
 class: revue
 ---
 
-![METTRAY n°9. Automne 2005.](/files/gd_mettray9.gif){: .right}
+<img class="right" src="/files/gd_mettray9.gif" alt="METTRAY n°9. Automne 2005.">
 
 **Diego Castro.** Artiste Plasticien. Il vit à Francfort et Genève.
 

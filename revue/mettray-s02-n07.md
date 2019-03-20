@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Septembre 2014</span>
 
-![METTRAY n°7. Septembre 2014.](/files/mettray-s2-07.png){: .right}
+<img class="right" src="/files/mettray-s2-07.png" alt="METTRAY n°7. Septembre 2014.">
 
 **Gérard Arseguel.** Écrivain. Dernières parutions : *Âme de quel divin !*, Fissile éditions, 2008 ; *Le petit bois qu’aimait Gérard : proses ariégeoises*, Éditions Larifla !, 2014.
 

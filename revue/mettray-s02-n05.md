@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Octobre 2012</span>
 
-![METTRAY n°5. Octobre 2012.](/files/mettray-s2-05.png){: .right}
+<img class="right" src="/files/mettray-s2-05.png" alt="METTRAY n°5. Octobre 2012.">
 
 **René de Ceccatty.** Écrivain et traducteur. Il vit à Paris.  
 Dernier livre paru : *Raphaël et Raphaël*, éd. Flammarion, 2012.

@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Décembre 2009</span>
 
-![METTRAY n°2. Décembre 2009.](/files/mettray12.png){: .right}
+<img class="right" src="/files/mettray12.png" alt="METTRAY n°2. Décembre 2009.">
 
 Je viens de terminer *Un autre voyage mexicain*, film de 112 minutes, qui documente le voyage au Mexique qu’effectua Bernard Plossu en 1965-1966, et qui donna lieu à une publication aux éditions Contrejour en 1979, *Le voyage mexicain*.
 

@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Hiver 2009</span>
 
-![METTRAY n°1. Hiver 2009.](/files/mettray11.png){: .right}
+<img class="right" src="/files/mettray11.png" alt="METTRAY n°1. Hiver 2009.">
 
 Ce numéro est dédié à la mémoire de Thierry Kuntzel.
 

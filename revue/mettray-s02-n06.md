@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Septembre 2013</span>
 
-![METTRAY n°6. Septembre 2013.](/files/mettray-s2-06.png){: .right}
+<img class="right" src="/files/mettray-s2-06.png" alt="METTRAY n°6. Septembre 2013.">
 
 **Luc Béraud.** Cinéaste, réalisateur, scénariste. Il vit à Paris.
 

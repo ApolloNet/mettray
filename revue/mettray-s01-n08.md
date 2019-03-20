@@ -3,7 +3,7 @@ title: METTRAY n°8. Printemps 2005
 class: revue
 ---
 
-![METTRAY n°8. Printemps 2005.](/files/gd_mettray8.gif){: .right}
+<img class="right" src="/files/gd_mettray8.gif" alt="METTRAY n°8. Printemps 2005.">
 
 **Kostas Axelos.** Il vit à Paris. Il publie ici la traduction inédite en français d'un fragment de *Ein Führung in ein Künftiges Denken. Uber Marx und Heidegger.*Tubingen, Niemeyer. 1966. Traduction de Claude Roëls.
 

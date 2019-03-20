@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Septembre 2015</span>
 
-![METTRAY n°8. Septembre 2015.](/files/mettray-s2-08.png){: .right}
+<img class="right" src="/files/mettray-s2-08.png" alt="METTRAY n°8. Septembre 2015.">
 
 Dire une photographie. Dire avec des mots ce qu’elle évoque, l’émotion, le temps perdu qu'elle ressuscite, dire avec des mots ce qu’une photographie ne dit pas.  
 J’ai choisi 34 auteurs, écrivains, cinéastes, poètes, artistes, historiens, critiques. Je leur ai demandé de choisir une photographie et de la « dire ».

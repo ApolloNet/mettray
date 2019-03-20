@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Septembre 2010</span>
 
-![METTRAY n°3. Septembre 2010.](/files/mettray13.png){: .right}
+<img class="right" src="/files/mettray13.png" alt="METTRAY n°3. Septembre 2010.">
 
 **Kostas Axelos.** Philosophe. 1924-2010. Son dernier livre paru en France est *Ce qui advient*, aux éditions Les Belles Lettres, coll. « Encre marine », et en Grèce en juin 2010, chez Nefeli, *Le destin de la Grèce moderne* paru en 1954 dans la revue *Esprit*, traduit par Katherina Daskalaki.  
 

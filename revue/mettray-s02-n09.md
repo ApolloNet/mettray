@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Septembre 2016</span>
 
-![METTRAY n°9. Septembre 2016.](/files/mettray-s2-09.png){: .right}
+<img class=right"" src="/files/mettray-s2-09.png" alt="METTRAY n°9. Septembre 2016.">
 
 **William S. Burroughs.** 1914-1997. Écrivain, artiste.  
 Il a notamment publié *Naked lunch* (*Le Festin nu*) chez Olympia Press en 1959. Pendant plusieurs années le livre est interdit aux États-Unis. Il met au point avec Brion Gysin la technique du cut-up.

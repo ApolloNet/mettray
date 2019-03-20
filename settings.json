@@ -1,0 +1,10 @@
+{
+  "title": "Mettray, Didier Morin",
+  "baseurl": "http://mettray.com",
+  "basepath": "/",
+  "contentTypes": ["entretiens", "livres", "pages", "revue"],
+  "home": {
+    "where": "pages",
+    "slug": "home"
+  }
+}

@@ -3,7 +3,7 @@ title: METTRAY n°5. Automne 2003
 class: revue
 ---
 
-![METTRAY n°5. Automne 2003.](/files/gd_mettray5.gif){: .right}
+<img class="right" src="/files/gd_mettray5.gif" alt="METTRAY n°5. Automne 2003.">
 
 **Laurence Bungelmi.** Née en 1976.
 

@@ -3,7 +3,7 @@ title: METTRAY n°3. Automne 2002
 class: revue
 ---
 
-![METTRAY n°3. Automne 2002.](/files/gd_mettray3.gif){: .right}
+<img class="right" src="/files/gd_mettray3.gif" alt="METTRAY n°3. Automne 2002.">
 
 **E. M. Cioran.** Penseur. 1911-1995.
 

@@ -3,7 +3,7 @@ title: METTRAY n°4. Printemps 2003
 class: revue
 ---
 
-![METTRAY n°4. Printemps 2003.](/files/gd_mettray4.gif){: .right}
+<img class="right" src="/files/gd_mettray4.gif" alt="METTRAY n°4. Printemps 2003.">
 
 **Kostas Axelos.** Né en 1924 à Athènes. Participe activement à la Résistance et à la guerre civile. S'installe à Paris en 1945. Études de philosophie à la Sorbonne où il enseigne (1962-1973).  Rédacteur en chef de la revue *Arguments* (1956-1962), fonde et dirige, depuis 1960, la collection *Arguments* aux Éditions de Minuit où paraissent ses livres : *Héraclite et la philosophie* (1962), *Le Jeu du monde* (1965), *Lettres à un jeune penseur* (1996), *Notices autobiographiques* (1997), *Le Questionnement* (2001).
 Prépare un livre : *Réponses énigmatiques*.

@@ -3,7 +3,7 @@ title: METTRAY n°1. Automne 2001
 class: revue
 ---
 
-![METTRAY n°1. Automne 2001.](/files/gd_mettray1.gif){: .right}
+<img class="right" src="/files/gd_mettray1.gif" alt="METTRAY n°1. Automne 2001.">
 
 **Jean-Pierre Bertrand.** Artiste. Il vit à Paris. Il met en oeuvre dans ses derniers travaux un nouveau médium : le médium flamand, dont les quatre phrases présentées ici en exorcisent en quelque sorte la pratique.
 

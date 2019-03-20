@@ -3,7 +3,7 @@ title: METTRAY n°10. Printemps 2006
 class: revue
 ---
 
-![METTRAY n°10. Printemps 2006.](/files/gd_mettray10.gif){: .right}
+<img class="right" src="/files/gd_mettray10.gif" alt="METTRAY n°10. Printemps 2006.">
 
 **Kostas Axelos.** Philosophe. Il vit à Paris. Ce qu'il publie ici fait partie d'un livre à venir. Dernier livre publié *Réponses énigmatiques*, aux Éditions de Minuit dans la collection *Arguments* en février 2005.
 

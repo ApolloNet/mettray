@@ -3,7 +3,7 @@ title: METTRAY n°2. Printemps 2002
 class: revue
 ---
 
-![METTRAY n°2. Printemps 2002.](/files/gd_mettray2.gif){: .right}
+<img class="right" src="/files/gd_mettray2.gif" alt="METTRAY n°2. Printemps 2002.">
 
 **Anis Balafrèj.** Entrepreneur. Il vit à Rabat.
 
