@@ -6,9 +6,10 @@ before_script:
 pages:
   stage: deploy
   script:
-  - ./node_modules/tamago/bin/tamago.js build
+    - uname -a
+    - ./node_modules/tamago/bin/tamago.js build
   artifacts:
     paths:
     - public
   only:
-  - master
+    - master
