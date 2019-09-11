@@ -1,12 +1,12 @@
 image: node:latest
 
 before_script:
+  - apt-get install libjpeg-dev
   - npm install tamago
 
 pages:
   stage: deploy
   script:
-    - uname -a
     - ./node_modules/tamago/bin/tamago.js build
   artifacts:
     paths:
