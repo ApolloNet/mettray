@@ -2,16 +2,12 @@
 title: Actualité
 ---
 
-<article class="clearfix">
-  <a href="/revue/mettray-s02-n11"><img src="/files/mettray-s2-11.jpg" alt="METTRAY n°11. Septembre 2018" class="right"></a>
-  <h2>METTRAY n°11</h2>
-  <p class="date">Septembre 2018</p>
-  <p>Marcelin Pleynet, Robert Motherwell, René de Ceccatty, Pier Paolo Pasolini, Ernest Pignon Ernest, Alain Bergala, Amélie Derlon Cordina, Christine Baudillon, Thomas Clerc, Daniel Pommereulle, Daniel Pommereulle, Philippe Grandrieux, 
-  Jean-François Magre, Onuma Nemon, Bernard Plossu, Christian Lebrat, Dork Zabunyan, Patrick de Haas.</p>
-  <ul>
-    <li><a href="/entretiens/s02-n11-didier-morin-philippe-grandrieux">Philippe Grandrieux, <em>Unrest</em> : entretien avec Didier Morin</a></li>
-  </ul>
-  <p><a href="/revue/mettray-s02-n11">Sommaire complet</a></p>
+<article class="clearfix" id="mettray-s02-n12">
+  <a href="/revue/mettray-s02-n12"><img src="/files/mettray-s2-12.jpg" alt="METTRAY n°12. Septembre 2019" class="right"></a>
+  <h2>METTRAY n°12</h2>
+  <p class="date">Septembre 2019</p>
+  <p>Jean-Michel Alberola, Gérard Arseguel, Jean-Pierre Bertrand, Peter Briggs, Christian Boltanski, Thomas Clerc, James Lee Byars, Pascal Claude, Roman Opalka, Marc Couturier, Markus Raetz, Mirtha Dermisache, Fabrice Hyber, Barry Flanagan, Philippe Grandrieux, Théo Grémillet, Patrick de Haas, Alberto Giacometti - Jean Genet, Philippe Lapierre, Olivier Kaeppelin, Jean-Claude Lebensztejn, David Lebreton, Frédérique Loutz - Dominique Païni, Pierre Lucerné, Clara Marciano, Jean-Hubert Martin, Onuma Nemon, Nivollet, Valère Novarina, Gaëlle Obiégly, Jean-Luc Parant - Jean Dubuffet, Pier Paulo Pasolini - René de Ceccatty, Dominique Tourrès Landman - Didier Morin, Jacques Pimpaneau, Pontormo - Savatore Silvano Nigro, Michel Thévoz - Louis Soutter.</p>
+  <p><a href="/revue/mettray-s02-n12">Sommaire complet</a></p>
 </article>
 
 <article class="clearfix">

@@ -2,6 +2,9 @@
 <html lang="fr" dir="ltr">
 <head>
   <title>{{title}} - Mettray, Didier Morin</title>
+  {{#description}}
+  <meta name="description" content="{{{.}}}">
+  {{/description}}
   <meta charset="UTF-8">
   <meta name="Robots" content="index,follow,all">
   <meta name="verify-v1" content="3xQ1oLDoT6ISF9unFMjV8y9tTJvjRo5seuUOY6hhm0M=">

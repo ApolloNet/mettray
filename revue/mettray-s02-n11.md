@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Septembre 2018</span>
 
-<img class="right" src="/files/mettray-s2-11.jpg" alt="METTRAY n°11. Septembre 2018;">
+<img class="right" src="/files/mettray-s2-11.jpg" alt="METTRAY n°11. Septembre 2018.">
 
 **Marcelin Pleynet**, 1933-2018 un parcours politique, entretien avec Didier Morin  
 **Robert Motherwell**, Lettre à Marcelin Pleynet  
