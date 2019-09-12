@@ -1,7 +1,6 @@
 image: node:latest
 
 before_script:
-  - apt-get install libjpeg-dev
   - npm install tamago
 
 pages:
