@@ -2,7 +2,7 @@ image: node:latest
 
 before_script:
   - apt-get update -qy
-  - apt-get install -y libjpeg libjpeg-dev
+  - apt-get install -y libjpeg-dev
   - npm install tamago
 
 pages:
