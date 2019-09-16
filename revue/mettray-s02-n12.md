@@ -8,7 +8,7 @@ class: revue
 
 <span class="date">Septembre 2019</span>
 
-<img class="right" src="/files/mettray-s2-11.jpg" alt="METTRAY n°12. Septembre 2019.">
+<img class="right" src="/files/mettray-s2-12.jpg" alt="METTRAY n°12. Septembre 2019.">
 
 ## Inscriptions, dessin & écriture
 
