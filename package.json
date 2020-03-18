@@ -1,0 +1,18 @@
+{
+  "name": "Mettray",
+  "version": "1.0.0",
+  "description": "Website for Mettray, Didier Morin",
+  "author": "Alexandre Ronsaut",
+  "scripts": {
+    "kamokamo": "cd static && kamokamo > contents.json",
+    "dev": "npm run kamokamo && nuxt",
+    "build": "npm run kamokamo && nuxt build",
+    "start": "npm run kamokamo && nuxt start",
+    "generate": "npm run kamokamo && nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/sitemap": "^2.0.1",
+    "kamokamo": "0.0.9",
+    "nuxt": "^2.0.0"
+  }
+}

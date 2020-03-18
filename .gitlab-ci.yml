@@ -1,14 +1,17 @@
-image: node:latest
+image: node
 
 before_script:
-  - npm install tamago
+  - npm install
+
+cache:
+  paths:
+    - node_modules/
 
 pages:
-  stage: deploy
   script:
-    - ./node_modules/tamago/bin/tamago.js build
+    - npm run generate
   artifacts:
     paths:
-    - public
+      - public
   only:
     - master

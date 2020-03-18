@@ -1,0 +1,4 @@
+{
+  "dirs": ["entretiens", "livres", "pages", "revue"],
+  "home": "/pages/home"
+}
