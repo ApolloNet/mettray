@@ -13,6 +13,6 @@ pages:
     - npm run generate
   artifacts:
     paths:
-      - dist
+      - public
   only:
     - master

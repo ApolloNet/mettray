@@ -58,6 +58,7 @@ export default {
   ** Generate configuration
   */
   generate: {
+    dir: 'public',
     routes: Object.keys(contents)
   },
   /*
