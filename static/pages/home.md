@@ -1,5 +1,6 @@
 ---
 title: Actualité
+description: Actualité des Éditions Mettray
 ---
 
 <article class="clearfix" id="mettray-s02-n12">
