@@ -29,31 +29,11 @@ export default {
     '@/static/css/styles.css'
   ],
   /*
-  ** Plugins to load before mounting the App
-  */
-  plugins: [
-  ],
-  /*
-  ** Nuxt.js dev-modules
-  */
-  buildModules: [
-  ],
-  /*
   ** Nuxt.js modules
   */
   modules: [
     '@nuxtjs/sitemap'
   ],
-  /*
-  ** Build configuration
-  */
-  build: {
-    /*
-    ** You can extend webpack config here
-    */
-    extend (config, ctx) {
-    }
-  },
   /*
   ** Generate configuration
   */
