@@ -1,34 +1,8 @@
 <template>
-  <div>
-    <header>
-      <div class="sitename"><nuxt-link to="/">METTRAY</nuxt-link></div>
-      <nav class="main-nav">
-        <ul>
-          <li><nuxt-link to="/revue">La revue</nuxt-link></li>
-          <li><nuxt-link to="/livres">Les livres</nuxt-link></li>
-          <li><nuxt-link to="/pages/contact">Contact</nuxt-link></li>
-        </ul>
-      </nav>
-    </header>
-    <main class="wrapper">
-      <article>
-        <h1 v-if="page.h1">{{page.title}}</h1>
-        <div class="content" v-html="page.html"></div>
-      </article>
-    </main>
-    <footer>
-      <nav class="footer-nav">
-        <ul>
-          <li><nuxt-link to="/">Accueil</nuxt-link></li>
-          <li><nuxt-link to="/revue">La revue</nuxt-link></li>
-          <li><nuxt-link to="/livres">Les livres</nuxt-link></li>
-          <li><nuxt-link to="/pages/contact">Contact</nuxt-link></li>
-          <li>© Didier Morin</li>
-        </ul>
-      </nav>
-    </footer>
-    <script defer src="/js/google-analytics.js"></script>
-  </div>
+  <article>
+    <h1 v-if="page.h1">{{page.title}}</h1>
+    <div class="content" v-html="page.html"></div>
+  </article>
 </template>
 
 <script>
@@ -52,7 +26,7 @@ export default {
         {
           hid: 'description',
           name: 'description',
-          content: this.page.description
+          content: this.page.description ? this.page.description : ''
         }
       ]
     }
