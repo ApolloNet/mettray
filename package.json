@@ -11,8 +11,8 @@
     "generate": "npm run kamokamo && nuxt generate"
   },
   "dependencies": {
-    "@nuxtjs/sitemap": "^2.0.1",
-    "kamokamo": "0.0.12",
+    "@nuxtjs/sitemap": "^2.2.0",
+    "kamokamo": "0.0.18",
     "nuxt": "^2.12.2"
   }
 }
