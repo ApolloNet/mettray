@@ -1,10 +1,11 @@
-import contents from './static/contents.json'
+async function routes () {
+  const { $content } = require('@nuxt/content')
+  const files = await $content('', { deep: true }).fetch()
+  return files.map((file) => (file.path === '/index' ? '/' : file.path))
+}
 
 export default {
   mode: 'universal',
-  /*
-  ** Headers of the page
-  */
   head: {
     title: 'Mettray, Didier Morin',
     meta: [
@@ -17,42 +18,22 @@ export default {
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,600,600i' }
     ]
   },
-  /*
-  ** Customize the progress-bar color
-  */
   loading: { color: '#fff' },
-  /*
-  ** Global CSS
-  */
   css: [
     '@/static/css/reset.css',
     '@/static/css/styles.css'
   ],
-  /*
-  ** Nuxt.js modules
-  */
   modules: [
+    '@nuxt/content',
     '@nuxtjs/sitemap'
   ],
-  /*
-  ** Generate configuration
-  */
   generate: {
     dir: 'public',
-    routes: Object.keys(contents)
+    routes
   },
-  /*
-   * Router
-   */
-  router: {
-    middleware: ['pages']
-  },
-  /**
-   * Sitemap
-   */
   sitemap: {
     hostname: 'https://mettray.com/',
     gzip: true,
-    routes: Object.keys(contents)
+    routes
   }
 }
