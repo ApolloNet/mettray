@@ -3,12 +3,13 @@ title: Actualité
 description: Actualité des Éditions Mettray
 ---
 
-<article class="clearfix" id="mettray-s02-n12">
-  <a href="/revue/mettray-s02-n12"><img src="/files/mettray-s2-12.jpg" alt="METTRAY n°12. Septembre 2019" class="right"></a>
-  <h2>METTRAY n°12</h2>
-  <p class="date">Septembre 2019</p>
-  <p>Jean-Michel Alberola, Gérard Arseguel, Jean-Pierre Bertrand, Peter Briggs, Christian Boltanski, Thomas Clerc, James Lee Byars, Pascal Claude, Roman Opalka, Marc Couturier, Markus Raetz, Mirtha Dermisache, Fabrice Hyber, Barry Flanagan, Philippe Grandrieux, Théo Grémillet, Patrick de Haas, Alberto Giacometti - Jean Genet, Philippe Lapierre, Olivier Kaeppelin, Jean-Claude Lebensztejn, David Lebreton, Frédérique Loutz - Dominique Païni, Pierre Lucerné, Clara Marciano, Jean-Hubert Martin, Onuma Nemon, Nivollet, Valère Novarina, Gaëlle Obiégly, Jean-Luc Parant - Jean Dubuffet, Pier Paulo Pasolini - René de Ceccatty, Dominique Tourrès Landman - Didier Morin, Jacques Pimpaneau, Pontormo - Savatore Silvano Nigro, Michel Thévoz - Louis Soutter.</p>
-  <p><a href="/revue/mettray-s02-n12">Sommaire complet</a></p>
+<article class="clearfix" id="mettray-s02-n13">
+  <a href="/revue/mettray-s02-n13"><img src="/files/mettray-s2-13.jpg" alt="METTRAY n°13. Septembre 2020" class="right"></a>
+  <h2>METTRAY n°13</h2>
+  <p class="date">Septembre 2020</p>
+  <p>Jean-Yves Lacroix, Bernard Noël, Bernard Plossu, Agnès Clerc, Jean Genet, Elias Sanbar, Alain Bergala, Philippe Grandrieux, Emma Cambier, Stéphanie Serra, Joseph-Marie Lo Duca, Antonin Artaud, Renée Falconetti, René de Ceccatty, Marc Graciano, Constant Candelara, Cécile Bargues, Benjamin Fondane, Olivier Salazar-Ferrer, Stéphane Breton, Eric Rondepierre.</p>
+  <p><strong>Dossier Pierre Lucerné : </strong>Marie Charoy, Patrick de Haas, Emilia et Gabriele Stocchi, Didier Morin, Christian Prigent, Jean Dubuffet, Onuma Nemon, Valère Novarina, Jean-Luc Parant.</p>
+  <p><a href="/revue/mettray-s02-n13">Sommaire complet</a></p>
 </article>
 
 <article class="clearfix">
