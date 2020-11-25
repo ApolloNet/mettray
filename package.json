@@ -10,8 +10,8 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content": "^1.8.1",
+    "@nuxt/content": "^1.11.1",
     "@nuxtjs/sitemap": "^2.4.0",
-    "nuxt": "^2.14.5"
+    "nuxt": "^2.14.7"
   }
 }
