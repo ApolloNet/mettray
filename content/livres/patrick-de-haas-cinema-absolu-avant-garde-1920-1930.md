@@ -23,5 +23,5 @@ h1: false
 
 <section class="credits">
   <img src="/files/logo-region-sud.jpg" alt="Logo région Sud" width="200" height="115" />
-  <p>L'édition de Cinéma Absolu a bénéficié du soutien financier de la Région Sud ainsi que du CNL. La traduction en Anglais a bénéficié également du soutien financier de la Région Sud.</p>
+  <p>L'édition de <em>Cinéma Absolu</em> a bénéficié du soutien financier de la Région Sud ainsi que du CNL. La traduction en Anglais a bénéficié également du soutien financier de la Région Sud.</p>
 </section>

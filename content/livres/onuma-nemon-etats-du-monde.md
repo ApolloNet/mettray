@@ -25,5 +25,5 @@ h1: false
 
 <section class="credits">
   <img src="/files/logo-region-sud.jpg" alt="Logo région Sud" width="200" height="115" />
-  <p>L'édition des États du Monde a bénéficié du soutien financier de la Région Sud ainsi que du CNL.</p>
+  <p>L'édition des <em>États du Monde</em> a bénéficié du soutien financier de la Région Sud ainsi que du CNL.</p>
 </section>
