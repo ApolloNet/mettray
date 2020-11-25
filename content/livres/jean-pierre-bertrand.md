@@ -64,3 +64,8 @@ h1: false
   </figure>
 
 </section>
+
+<section class="credits">
+  <img src="/files/logo-region-sud.jpg" alt="Logo région Sud" width="200" height="115" />
+  <p>L'édition de la monographie de Jean-Pierre Bertrand a bénéficié du soutien financier de la Région Sud et du CNAP.</p>
+</section>

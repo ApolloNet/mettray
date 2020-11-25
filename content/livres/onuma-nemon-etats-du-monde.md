@@ -22,3 +22,8 @@ h1: false
   <li>ISBN : 978-2-9544096-1-0</li>
   <li>Prix public : 29 euros (Non assujetti à la TVA)</li>
 </ul>
+
+<section class="credits">
+  <img src="/files/logo-region-sud.jpg" alt="Logo région Sud" width="200" height="115" />
+  <p>L'édition des États du Monde a bénéficié du soutien financier de la Région Sud ainsi que du CNL.</p>
+</section>
