@@ -6,6 +6,7 @@ async function routes () {
 
 export default {
   mode: 'universal',
+  target: 'static',
   head: {
     title: 'Mettray, Didier Morin',
     meta: [

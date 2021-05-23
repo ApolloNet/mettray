@@ -6,6 +6,7 @@
         <ul>
           <li><nuxt-link to="/revue/index">La revue</nuxt-link></li>
           <li><nuxt-link to="/livres/index">Les livres</nuxt-link></li>
+          <li><nuxt-link to="/d-apres/index"><em>D'après</em></nuxt-link></li>
           <li><nuxt-link to="/pages/contact">Contact</nuxt-link></li>
         </ul>
       </nav>
