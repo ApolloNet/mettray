@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1622477941",layout:"default",error:a,serverRendered:true,routePath:"\u002Flivres\u002Fjean-pierre-bertrand",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"cc7c374c"}}}}(null));
