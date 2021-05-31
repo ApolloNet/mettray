@@ -1,10 +1,10 @@
 ---
-title: D'Après
+title: d’Après
 description: 
 h1: false
 ---
 
-# _D'après_
+# _d’Après_
 
 La collection _d’Après_ est consacrée à la littérature et à la photographie. L’écriture de chaque texte qui témoigne d’une rencontre, a été provoquée par un regard porté sur des photographies. Il ne les commente pas, il s’en détache et part dans une autre direction.
 
