@@ -10,6 +10,17 @@ h1: false
 
 ---
 
+<p class="clear no-margin"><img class="right" src="/files/livre-rondepierre/eric-rondepierre-la-maison-cruelle.jpg" alt="La Maison cruelle, Éric Rondepierre : Couverture" width="141" height="205"></p>
+
+## [_La Maison Cruelle_<br>Éric Rondepierre](/livres/eric-rondepirerre-la-maison-cruelle)
+<span class="date">Janvier 2022</span>
+
+Le 24 décembre 1836 est inaugurée, au cœur de Paris, une prison pour enfants : la Petite Roquette. Jusqu'en 1930, près de 200 000 mineurs de 7 à 21 ans y sont incarcérés en régime cellulaire, condamnés aux travaux forcés.
+
+[Présentation de l'ouvrage](/livres/eric-rondepirerre-la-maison-cruelle)
+
+---
+
 <p class="clear no-margin"><img class="right" width="141" height="188" src="/files/livre-de-haas/patrick-de-haas-cinema-absolu.jpg" alt="Cinéma absolu, Avant-garde 1920-1930, Patrick de Haas : Couverture"></p>
 
 ## [_Cinéma absolu, Avant-garde 1920-1930_<br>Patrick de Haas](/livres/patrick-de-haas-cinema-absolu-avant-garde-1920-1930)

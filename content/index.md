@@ -12,9 +12,9 @@ description: Actualité des Éditions Mettray
 </article>
 
 <article class="clearfix">
-  <a href="/livres/patrick-de-haas-cinema-absolu-avant-garde-1920-1930"><img class="right" width="141" height="188" src="/files/livre-de-haas/patrick-de-haas-cinema-absolu.jpg" alt="Cinéma absolu, Avant-garde 1920-1930, Patrick de Haas : Couverture" class="right"></a>
-  <h2><em>Cinéma absolu, Avant-garde 1920-1930</em><br>Patrick de Haas</h2>
-  <p class="date">Octobre 2018</p>
-  <p>Il s'agit de l'étude la plus complète à ce jour des relations entre peinture et cinéma dans les années 1920. Des artistes et poètes (Duchamp, Man Ray, Picabia, Malévitch, Léger, Artaud, Moholy-Nagy, Ruttmann, Desnos...) font du cinéma un chantier d'expériences.  Le cinéma se fait ainsi cubiste, dadaïste, abstrait, constructiviste, surréaliste... Les notions d'avant-garde, d'expérience et d'expérimentation se trouvent donc revisitées.</p>
-  <p><a href="/livres/patrick-de-haas-cinema-absolu-avant-garde-1920-1930">Présentation de l'ouvrage</a></p>
+  <a href="/livres/eric-rondepirerre-la-maison-cruelle"><img class="right" src="/files/livre-rondepierre/eric-rondepierre-la-maison-cruelle.jpg" alt="La Maison cruelle, Éric Rondepierre : Couverture" width="141" height="205"></a>
+  <h2><em>La Maison Cruelle</em><br>Éric Rondepierre</h2>
+  <p class="date">Janvier 2022</p>
+  <p>Le 24 décembre 1836 est inaugurée, au cœur de Paris, une prison pour enfants : la Petite Roquette. Jusqu'en 1930, près de 200 000 mineurs de 7 à 21 ans y sont incarcérés en régime cellulaire, condamnés aux travaux forcés..</p>
+  <p><a href="/livres/eric-rondepirerre-la-maison-cruelle">Présentation de l'ouvrage</a></p>
 </article>
