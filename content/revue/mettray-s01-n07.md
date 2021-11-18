@@ -3,7 +3,7 @@ title: METTRAY n°7. Automne 2004
 class: revue
 ---
 
-<img class=right"" src="/files/gd_mettray7.gif" alt="METTRAY n°7. Automne 2004.">
+<img class="right" src="/files/gd_mettray7.gif" alt="METTRAY n°7. Automne 2004.">
 
 **Jean Genet.** Écrivain. 1910-1986.
 
