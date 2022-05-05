@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/pages/404", (function(a){return {data:[{content:{slug:"404",title:"Erreur 404",toc:[],body:{type:"root",children:[{type:"element",tag:"p",props:{},children:[{type:"text",value:"Cette page n'existe pas."}]}]},dir:"\u002Fpages",path:"\u002Fpages\u002F404",extension:".md",createdAt:a,updatedAt:a}}],fetch:{},mutations:void 0}}("2021-11-18T11:09:20.954Z")));

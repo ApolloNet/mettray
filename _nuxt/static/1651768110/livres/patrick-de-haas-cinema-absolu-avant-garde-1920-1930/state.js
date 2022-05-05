@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1651768110",layout:"default",error:a,serverRendered:true,routePath:"\u002Flivres\u002Fpatrick-de-haas-cinema-absolu-avant-garde-1920-1930",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"d2f8f4c8"}}}}(null));
