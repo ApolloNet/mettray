@@ -1,13 +1,13 @@
 ---
 title: Contact
-description: "Contacter la revue METTRAY pour toute information, commande ou abonnement."
+description: "Contacter METTRAY Éditions pour toute information, commande ou abonnement."
 ---
 
 Pour toute information, commande ou abandonnement, merci d’envoyer un courrier ou un e-mail à :
 
-<span class="mettray">METTRAY</span>  
-40 rue du Panier  
-13002 Marseille
+METTRAY Éditions  
+Chemin de la Romeziere  
+84600 Valréas
 
 Email : [mettray.editions@gmail.com](mailto:mettray.editions@gmail.com)
 
