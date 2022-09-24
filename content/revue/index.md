@@ -14,6 +14,21 @@ Didier Morin y publie également des entretiens avec des auteurs pour l’histoi
 
 # Nouvelle série
 
+<article class="clearfix" id="mettray-s02-hs">
+  <a href="/revue/mettray-s02-hs"><img src="/files/mettray-s2-hs.jpg" alt="METTRAY hors série. Septembre 2022" class="right"></a>
+  <h2>METTRAY hors série</h2>
+  <p class="date">Septembre 2022</p>
+  <p><strong>Plossu expérimental ?!</strong><br>Texte de Patrick de Haas</p>
+</article>
+
+<article class="clearfix" id="mettray-s02-n15">
+  <a href="/revue/mettray-s02-n15"><img src="/files/mettray-s2-15.jpg" alt="METTRAY n°15. Septembre 2022" class="right"></a>
+  <h2>METTRAY n°15</h2>
+  <p class="date">Septembre 2022</p>
+  <p>Gérard Arseguel, Patrick Autréaux, Florence Basilio, Marie Rivière, Alain Bergala, René de Ceccatty, Marie-Claire Blais, Agnès Clerc, Amélie Derlon Cordina, Marc Graciano, Philippe Grandrieux, Olivier Kaeppelin, Jonathan Littell, Dominique Marchès, Didier Morin, Laurent Mauvignier, Onuma Nemon, Bernard Plossu, Martine Roffinella, Éric Rondepierre, Tiphaine Samoyault, Olivier Steiner, Stéphane Velut, Isabelle Weingarten</p>
+  <p><a href="/revue/mettray-s02-n15">Sommaire complet</a></p>
+</article>
+
 <article class="clearfix" id="mettray-s02-n14">
   <a href="/revue/mettray-s02-n14"><img src="/files/mettray-s2-14.jpg" alt="METTRAY n°14. Septembre 2021" class="right"></a>
   <h2>METTRAY n°14</h2>

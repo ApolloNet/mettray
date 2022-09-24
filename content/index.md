@@ -3,12 +3,19 @@ title: Actualité
 description: Actualité des Éditions Mettray
 ---
 
-<article class="clearfix" id="mettray-s02-n14">
-  <a href="/revue/mettray-s02-n14"><img src="/files/mettray-s2-14.jpg" alt="METTRAY n°14. Septembre 2021" class="right"></a>
-  <h2>METTRAY n°14</h2>
-  <p class="date">Septembre 2021</p>
-  <p>Aragon, Patrick Autréaux, Joë Bousquet, René de Ceccatty, Louise Chennevière, Thomas Clerc, William Cliff, Coccinelle, Michaël Ferrier, Jean Genet, Paul Armand Gette, Marc Graciano, Donatien Grau, Philippe Grandrieux, Pierre Guyotat, Jacques Henric, Violette Leduc, Saverio Lucariello, Marie Maurel de Maillé, Catherine Millet, Didier Morin, Jean-Luc Moulène, Onuma Nemon, Patrick Neu, Bernard Noël, Ronald Ophuis, Dominique Païni, Walter Pfeiffer, Bernard Plossu, Denis Roche, Martine Roffinella, Éric Rondepierre, Laure Sérullaz, Olivier Steiner, Wolfgang Tillmans, Stéphane Velut</p>
-  <p><a href="/revue/mettray-s02-n14">Sommaire complet</a></p>
+<article class="clearfix" id="mettray-s02-hs">
+  <a href="/revue/mettray-s02-hs"><img src="/files/mettray-s2-hs.jpg" alt="METTRAY hors série. Septembre 2022" class="right"></a>
+  <h2>METTRAY hors série</h2>
+  <p class="date">Septembre 2022</p>
+  <p><strong>Plossu expérimental ?!</strong><br>Texte de Patrick de Haas</p>
+</article>
+
+<article class="clearfix" id="mettray-s02-n15">
+  <a href="/revue/mettray-s02-n15"><img src="/files/mettray-s2-15.jpg" alt="METTRAY n°15. Septembre 2022" class="right"></a>
+  <h2>METTRAY n°15</h2>
+  <p class="date">Septembre 2022</p>
+  <p>Gérard Arseguel, Patrick Autréaux, Florence Basilio, Marie Rivière, Alain Bergala, René de Ceccatty, Marie-Claire Blais, Agnès Clerc, Amélie Derlon Cordina, Marc Graciano, Philippe Grandrieux, Olivier Kaeppelin, Jonathan Littell, Dominique Marchès, Didier Morin, Laurent Mauvignier, Onuma Nemon, Bernard Plossu, Martine Roffinella, Éric Rondepierre, Tiphaine Samoyault, Olivier Steiner, Stéphane Velut, Isabelle Weingarten</p>
+  <p><a href="/revue/mettray-s02-n15">Sommaire complet</a></p>
 </article>
 
 <article class="clearfix">
