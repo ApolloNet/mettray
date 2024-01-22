@@ -3,6 +3,14 @@ title: Actualité
 description: Actualité des Éditions Mettray
 ---
 
+<article class="clearfix" id="arseguel-oeuvres">
+  <a href="/livres/gerard-arseguel-oeuvres-1957-1987"><img width="141" height="203" src="/files/gerard-arseguel-oeuvres-1957-1987/couverture.jpg" alt="Œuvres 1957-1987, Gérard Arseguel" class="right"></a>
+  <h2><em>Œuvres 1957-1987</em><br>Gérard Arseguel</h2>
+  <p class="date">Janvier 2024</p>
+  <p>Cet ouvrage est le premier volume de l&#39;œuvre complète de Gérard Arseguel. Il comprend les huit premiers recueils dont un est inédit, ainsi que les textes et poèmes parus entre 1957 et 1987.</p>
+  <p><a href="/livres/gerard-arseguel-oeuvres-1957-1987" class="">Présentation de l'ouvrage</a></p>
+</article>
+
 <article class="clearfix" id="mettray-s02-n16">
   <a href="/revue/mettray-s02-n16"><img src="/files/mettray-s2-16.jpg" alt="METTRAY n°16. Septembre 2023" class="right"></a>
   <h2>METTRAY n°16</h2>
@@ -16,12 +24,4 @@ description: Actualité des Éditions Mettray
   <h2>METTRAY hors série</h2>
   <p class="date">Septembre 2022</p>
   <p><strong>Plossu expérimental ?!</strong><br>Texte de Patrick de Haas</p>
-</article>
-
-<article class="clearfix">
-  <a href="/livres/eric-rondepirerre-la-maison-cruelle"><img class="right" src="/files/livre-rondepierre/eric-rondepierre-la-maison-cruelle.jpg" alt="La Maison cruelle, Éric Rondepierre : Couverture" width="141" height="205"></a>
-  <h2><em>La Maison Cruelle</em><br>Éric Rondepierre</h2>
-  <p class="date">Janvier 2022</p>
-  <p>Le 24 décembre 1836 est inaugurée, au cœur de Paris, une prison pour enfants : la Petite Roquette. Jusqu'en 1930, près de 200 000 mineurs de 7 à 21 ans y sont incarcérés en régime cellulaire, condamnés aux travaux forcés..</p>
-  <p><a href="/livres/eric-rondepirerre-la-maison-cruelle">Présentation de l'ouvrage</a></p>
 </article>
